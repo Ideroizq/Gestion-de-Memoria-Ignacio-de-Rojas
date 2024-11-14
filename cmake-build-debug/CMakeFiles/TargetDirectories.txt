@@ -1,0 +1,3 @@
+C:/Users/nacho/Documents/GitHub/Gestion-de-Memoria-Ignacio-de-Rojas/cmake-build-debug/CMakeFiles/Gestion_de_Memoria_Ignacio_de_Rojas.dir
+C:/Users/nacho/Documents/GitHub/Gestion-de-Memoria-Ignacio-de-Rojas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nacho/Documents/GitHub/Gestion-de-Memoria-Ignacio-de-Rojas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
