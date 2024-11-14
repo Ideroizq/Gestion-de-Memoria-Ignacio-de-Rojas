@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gestion_de_Memoria_Ignacio_de_Rojas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Gestion_de_Memoria_Ignacio_de_Rojas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gestion_de_Memoria_Ignacio_de_Rojas-Debug-03d5438fe4e3be4cbf17.json",
+					"name" : "Gestion_de_Memoria_Ignacio_de_Rojas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nacho/Documents/GitHub/Gestion-de-Memoria-Ignacio-de-Rojas/cmake-build-debug",
+		"source" : "C:/Users/nacho/Documents/GitHub/Gestion-de-Memoria-Ignacio-de-Rojas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
